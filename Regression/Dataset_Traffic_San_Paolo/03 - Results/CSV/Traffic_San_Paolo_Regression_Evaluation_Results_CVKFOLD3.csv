@@ -1,0 +1,4 @@
+,Kfold_Max_r2,Kfold_Mean_r2,Kfold_Min_r2,Kfold_Std_Deviation_r2,Kfold_r2_Elapsed_Time,Kfold_Max_Mean_Squared_Error,Kfold_Mean_Mean_Squared_Error,Kfold_Min_Mean_Squared_Error,Kfold_Std_Deviation_Mean_Squared_Error,Kfold_Mean_Squared_Error_Elapsed_Time,Kfold_Max_Mean_Absolute_Error,Kfold_Mean_Mean_Absolute_Error,Kfold_Min_Mean_Absolute_Error,Kfold_Std_Deviation_Mean_Absolute_Error,Kfold_Mean_Absolute_Error_Elapsed_Time,Kfold_Max_Root_Mean_Squared_Error,Kfold_Mean_Root_Mean_Squared_Error,Kfold_Min_Root_Mean_Squared_Error,Kfold_Std_Deviation_Root_Mean_Squared_Error,Kfold_Root_Mean_Squared_Error_Elapsed_Time
+XGB,0.92,0.88,0.84,0.04,570.00 ms,3.54,2.40,1.30,0.91,560.00 ms,1.36,1.13,0.91,0.18,570.00 ms,1.88,1.52,1.14,0.30,570.00 ms
+DTR,0.85,0.80,0.74,0.04,30.00 ms,5.90,3.82,2.47,1.49,30.00 ms,1.67,1.39,1.16,0.21,20.00 ms,2.42,1.85,1.51,0.41,30.00 ms
+SVR,0.39,0.28,0.16,0.10,30.00 ms,18.31,13.82,10.81,3.24,30.00 ms,2.85,2.64,2.42,0.17,30.00 ms,4.28,3.69,3.29,0.42,30.00 ms

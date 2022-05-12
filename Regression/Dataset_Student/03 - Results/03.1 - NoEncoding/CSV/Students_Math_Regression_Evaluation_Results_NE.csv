@@ -1,0 +1,4 @@
+,r2,Mean_Squared_Error,Mean_Absolute_Error,Root_Mean_Squared_Error,Fit_Elapsed_Time,Evaluation_Elapsed_Time
+XGB,0.54,0.74,0.62,0.86,240.00 ms,10.00 ms
+DTR,0.33,1.07,0.73,1.03,10.00 ms,0.00 ms
+SVR,0.54,0.73,0.60,0.86,10.00 ms,10.00 ms

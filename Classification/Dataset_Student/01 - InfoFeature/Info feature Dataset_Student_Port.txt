@@ -1,0 +1,310 @@
+DATASET PORTOGHESE
+
+SCHOOL
+GP    423
+MS    226
+Name: school, dtype: int64
+Totale: 649
+
+SEX
+F    383
+M    266
+Name: sex, dtype: int64
+Totale: 649
+
+AGE
+15    112
+16    177
+17    179
+18    140
+19     32
+20      6
+21      2
+22      1
+Name: age, dtype: int64
+Totale: 649
+
+ADDRESS
+R    197
+U    452
+Name: address, dtype: int64
+Totale: 649
+
+FAMSIZE
+GT3    457
+LE3    192
+Name: famsize, dtype: int64
+Totale: 649
+
+PSTATUS
+A     80
+T    569
+Name: Pstatus, dtype: int64
+Totale: 649
+
+MEDU
+4    175
+3    139
+2    186
+1    143
+0      6
+Name: Medu, dtype: int64
+Totale: 649
+
+FEDU
+4    128
+3    131
+2    209
+1    174
+0      7
+Name: Fedu, dtype: int64
+Totale: 649
+
+MJOB
+other       258
+services    136
+at_home     135
+teacher      72
+health       48
+Name: Mjob, dtype: int64
+Totale: 649
+
+FJOB
+other       367
+services    181
+at_home      42
+teacher      36
+health       23
+Name: Fjob, dtype: int64
+Totale: 649
+
+REASON
+course        285
+home          149
+reputation    143
+other          72
+Name: reason, dtype: int64
+Totale: 649
+
+GUARDIAN
+mother    455
+father    153
+other      41
+Name: guardian, dtype: int64
+Totale: 649
+
+TRAVELTIME
+1    366
+2    213
+3     54
+4     16
+Name: traveltime, dtype: int64
+Totale: 649
+
+STUDYTIME
+1    212
+2    305
+3     97
+4     35
+Name: studytime, dtype: int64
+Totale: 649
+
+FAILURES
+0    549
+1     70
+2     16
+3     14
+Name: failures, dtype: int64
+Totale: 649
+
+SCHOOLSUP
+no     581
+yes     68
+Name: schoolsup, dtype: int64
+Totale: 649
+
+FAMSUP
+no     251
+yes    398
+Name: famsup, dtype: int64
+Totale: 649
+
+PAID
+no     610
+yes     39
+Name: paid, dtype: int64
+Totale: 649
+
+ACTIVITIES
+no     334
+yes    315
+Name: activities, dtype: int64
+Totale: 649
+
+NURSERY
+no     128
+yes    521
+Name: nursery, dtype: int64
+Totale: 649
+
+HIGHER
+no      69
+yes    580
+Name: higher, dtype: int64
+Totale: 649
+
+INTERNET
+no     151
+yes    498
+Name: internet, dtype: int64
+Totale: 649
+
+ROMANTIC
+no     410
+yes    239
+Name: romantic, dtype: int64
+Totale: 649
+
+FAMREL
+1     22
+2     29
+3    101
+4    317
+5    180
+Name: famrel, dtype: int64
+Totale: 649
+
+FREETIME
+1     45
+2    107
+3    251
+4    178
+5     68
+Name: freetime, dtype: int64
+Totale: 649
+
+GOOUT
+1     48
+2    145
+3    205
+4    141
+5    110
+Name: goout, dtype: int64
+Totale: 649
+
+DALC
+1    451
+2    121
+3     43
+4     17
+5     17
+Name: Dalc, dtype: int64
+Totale: 649
+
+WALC
+1    247
+2    150
+3    120
+4     87
+5     45
+Name: Walc, dtype: int64
+Totale: 649
+
+HEALTH
+1     90
+2     78
+3    124
+4    108
+5    249
+Name: health, dtype: int64
+Totale: 649
+
+ABSENCES
+0     244
+1      12
+2     110
+3       7
+4      93
+5      12
+6      49
+7       3
+8      42
+9       7
+10     21
+11      5
+12     12
+13      1
+14      8
+15      2
+16     10
+18      3
+21      2
+22      2
+24      1
+26      1
+30      1
+32      1
+Name: absences, dtype: int64
+Totale: 649
+
+G1
+0      1
+4      2
+5      5
+6      9
+7     33
+8     42
+9     65
+10    95
+11    91
+12    82
+13    72
+14    71
+15    35
+16    22
+17    16
+18     7
+19     1
+Name: G1, dtype: int64
+Totale: 649
+
+G2
+0       7
+5       3
+6       7
+7      16
+8      40
+9      72
+10     83
+11    103
+12     86
+13     80
+14     54
+15     38
+16     25
+17     20
+18     14
+19      1
+Name: G2, dtype: int64
+Totale: 649
+
+G3
+0      15
+1       1
+5       1
+6       3
+7      10
+8      35
+9      35
+10     97
+11    104
+12     72
+13     82
+14     63
+15     49
+16     36
+17     29
+18     15
+19      2
+Name: G3, dtype: int64
+Totale: 649

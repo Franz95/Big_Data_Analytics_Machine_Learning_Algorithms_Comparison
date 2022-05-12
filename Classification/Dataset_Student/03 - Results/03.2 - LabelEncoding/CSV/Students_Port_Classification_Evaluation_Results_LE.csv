@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1,Fit_Elapsed_Time,Evaluation_Elapsed_Time
+XGB,43.26%,42.98%,43.26%,42.78%,600.00 ms,20.00 ms
+DTC,35.81%,35.60%,35.81%,35.65%,10.00 ms,10.00 ms
+SVC,37.21%,35.86%,37.21%,33.78%,20.00 ms,50.00 ms

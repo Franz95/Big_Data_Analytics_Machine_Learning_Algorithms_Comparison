@@ -1,0 +1,69 @@
+
+MOV_1
+b    205
+o    335
+x    418
+Name: Mov_1, dtype: int64
+Totale: 958
+
+MOV_2
+b    250
+o    330
+x    378
+Name: Mov_2, dtype: int64
+Totale: 958
+
+MOV_3
+b    205
+o    335
+x    418
+Name: Mov_3, dtype: int64
+Totale: 958
+
+MOV_4
+b    250
+o    330
+x    378
+Name: Mov_4, dtype: int64
+Totale: 958
+
+MOV_5
+b    160
+o    340
+x    458
+Name: Mov_5, dtype: int64
+Totale: 958
+
+MOV_6
+b    250
+o    330
+x    378
+Name: Mov_6, dtype: int64
+Totale: 958
+
+MOV_7
+b    205
+o    335
+x    418
+Name: Mov_7, dtype: int64
+Totale: 958
+
+MOV_8
+b    250
+o    330
+x    378
+Name: Mov_8, dtype: int64
+Totale: 958
+
+MOV_9
+b    205
+o    335
+x    418
+Name: Mov_9, dtype: int64
+Totale: 958
+
+RISULTATO
+negative    332
+positive    626
+Name: Risultato, dtype: int64
+Totale: 958

@@ -1,0 +1,4 @@
+,Kfold_Max_Accuracy,Kfold_Mean_Accuracy,Kfold_Min_Accuracy,Kfold_Std_Deviation_Accuracy,Kfold_Accuracy_Elapsed_Time,Kfold_Max_Precision,Kfold_Mean_Precision,Kfold_Min_Precision,Kfold_Std_Deviation_Precision,Kfold_Precision_Elapsed_Time,Kfold_Max_Recall,Kfold_Mean_Recall,Kfold_Min_Recall,Kfold_Std_Deviation_Recall,Kfold_Recall_Elapsed_Time,Kfold_Max_F1,Kfold_Mean_F1,Kfold_Min_F1,Kfold_Std_Deviation_F1,Kfold_F1_Elapsed_Time
+XGB,100.00%,100.00%,99.99%,0.00%,65360.00 ms,100.00%,100.00%,99.99%,0.00%,64980.00 ms,100.00%,100.00%,99.99%,0.00%,64450.00 ms,100.00%,100.00%,99.99%,0.00%,64490.00 ms
+DTC,100.00%,100.00%,99.99%,0.00%,1210.00 ms,100.00%,100.00%,99.99%,0.00%,1190.00 ms,100.00%,100.00%,99.99%,0.00%,1250.00 ms,100.00%,100.00%,99.99%,0.00%,1200.00 ms
+SVC,100.00%,100.00%,99.99%,0.00%,292930.00 ms,100.00%,100.00%,99.99%,0.00%,280620.00 ms,100.00%,100.00%,99.99%,0.00%,289330.00 ms,100.00%,100.00%,99.99%,0.00%,286440.00 ms
